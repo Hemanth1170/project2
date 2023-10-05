@@ -19,7 +19,7 @@
 
 ## project2
 
-A Fiori application.
+A Fiori application which contains custom table with dummy data.
 
 ### Starting the generated app
 
